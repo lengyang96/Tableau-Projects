@@ -14,13 +14,13 @@ This Tableau story provides a detailed analysis of fruit and vegetable prices th
 
 ### First-Half: Price Comparison Amongst Different Produce
 
-![Dashobard First Half](/images/P1.png)
+![Dashboard First Half](/Fruit_And_Vegetable_Price_Analysis/images/P1.png)
 
 The first half of the story showcases each produce in a cost per cup equivalent format, allowing for easy and intuitive comparison of prices between items. These dashboards feature interactive filtering, enabling users to filter by produce type, form, and the year of data they are interested in.
 
 ### Second-Half: Price Trends
 
-![Dashboard Second Half](/images/P2.png)
+![Dashboard Second Half](/Fruit_And_Vegetable_Price_Analysis/images/P2.png)
 
 The second half of the story showcases the price in a cup equivalent format for the selected produce, allowing users to observe price trends over time. These dashboards also feature interactive filtering, enabling users to filter by both the produce and the form they are interested in.
 
